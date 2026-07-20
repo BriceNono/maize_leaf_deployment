@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.h5
+*.tflite
+vgg16_maize_savedmodel/
+static/uploads/*
+!static/uploads/.gitkeep
+.env
+.DS_Store
